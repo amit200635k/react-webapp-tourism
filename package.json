@@ -38,4 +38,7 @@
       "last 1 safari version"
     ]
   }
+  ,"important-note":"use below line only for builing buid -- after build comment below lines in debvelopment mode"
+  ,"homepagexx": "https://gis.jharkhand.gov.in/tourismapp/"
+  ,"ReasonForHOmepageKeyABove":"Add homepage key for home url in xamp"
 }
